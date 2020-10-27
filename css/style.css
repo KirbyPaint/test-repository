@@ -1,12 +1,12 @@
 h1 {
-  color: red;
+  color: blue;
   text-align: center;
 }
 
 h2 {
   font-style: italic;
   text-align: center;
-  color: maroon;
+  color: teal;
 }
 
 p {
@@ -14,5 +14,5 @@ p {
 }
 
 body {
-  background-color: pink;
+  background-color: aqua;
 }
